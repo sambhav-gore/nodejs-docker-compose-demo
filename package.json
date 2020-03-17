@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-docker-compose-demo",
+  "version": "1.0.0",
+  "description": "nodejs docker compose demo",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
